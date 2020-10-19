@@ -1,0 +1,5 @@
+{
+  "id": "my-entry-extension",
+  "name": "my-entry-extension",
+  "srcdoc": "./build/index.html"
+}
